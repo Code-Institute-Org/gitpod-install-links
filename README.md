@@ -2,6 +2,6 @@
 
 Welcome USER_NAME,
 
-We have preinstalled all of the tools you need to get started.
+This template will install the Links command-line browser. To run it, open a terminal window and type: `links`
 
 Happy coding!
